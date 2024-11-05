@@ -46,3 +46,6 @@ public class Main{
     }
 }
 ```
+
+# References :
+https://github.com/eMahtab/print-foo-bar-alternately
